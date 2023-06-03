@@ -50,6 +50,8 @@ while True:
 ```
 # OUTPUT :
 # CLIENT OUTPUT :
+![client3](https://github.com/JeyaKrishnaSJ/EX-3/assets/118707091/d3067054-6023-4751-9602-5443084c6217)
+
 
 # SERVER OUTPUT :
 
